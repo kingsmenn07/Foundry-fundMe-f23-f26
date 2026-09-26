@@ -3,7 +3,7 @@
 2. Integration tests
 PIT STOP! How to make running these scripts easier???
 3. Programatic verification
-push to GitHub
+4. push to GitHub
 
 
 ## ABOUT
@@ -17,7 +17,7 @@ Requirements
      RUN  forge --version and you will see a response like>> forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z),  that is when you know you got it right   
 
 * Quickstart
-  git clone https://github.com/
+  git clone git@github.com:kingsmenn07/Foundry-fundMe-f23-f26.git
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
