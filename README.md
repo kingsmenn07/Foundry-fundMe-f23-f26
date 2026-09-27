@@ -14,11 +14,13 @@ Requirements
 * git
      ```shell
      git --version
-     and you will see a response like>> git version x.x.x. that is when you know you got it right                                          
+     and you will see a response like>> git version x.x.x.
+     that is when you know you got it right                                          
 * foundry
     ```shell
     forge --version 
-    and you will see a response like>> forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z),  that is when you know you got it right   
+    and you will see a response like>> forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z),
+    that is when you know you got it right   
 
 * Quickstart
     ```shell
