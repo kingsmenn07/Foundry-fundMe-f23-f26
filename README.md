@@ -7,6 +7,7 @@ PIT STOP! How to make running these scripts easier???
 
 
 ## ABOUT
+This is a sourcing app for Learning solidity and smart contract for security research purpose
 
 ## Getting Started
 
