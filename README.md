@@ -26,6 +26,8 @@ Requirements
 * Quickstart
     ```shell
    git clone git@github.com:kingsmenn07/Foundry-fundMe-f23-f26.git
+   cd Foundry-fundMe-f23-f26
+   forge build
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
