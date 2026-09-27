@@ -42,6 +42,7 @@ https://book.getfoundry.sh/
 
 ## Usage
 ## Deploy
+```shell
  forge script script/DeployFundMe.s.sol
 
 ### Build
